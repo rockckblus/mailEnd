@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.mail.rockblus.usercenter">
+
+    <application>
+        <activity android:name="com.mail.rockblus.usercenter.ui.RegActivity"></activity>
+    </application>
+
+</manifest>
